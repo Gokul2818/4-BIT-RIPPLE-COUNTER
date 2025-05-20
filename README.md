@@ -31,10 +31,11 @@ In timing diagram Q0 is changing as soon as the negative edge of clock pulse is 
 5.Conduct functional testing by displaying the count at each clock cycle for 16 cycles.
 
 **PROGRAM**
-```TEXT
- Developed by:GURU RAGHAV PONJEEVITH V
- RegisterNumber: 212223220027
-```
+
+ Developed by: GOKUL S
+
+ RegisterNumber: 212224240045
+ 
 ```VERILOG
 module RippleCounter(
    input wire clk,  // Clock input
@@ -104,4 +105,5 @@ endmodule
 ![image](https://github.com/user-attachments/assets/a7868c4c-fa53-485f-97c6-a0029262da49)
 
 **RESULTS**
+
 Thus the program executed succesfully.
